@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## website
 
-You can use the [editor on GitHub](https://github.com/Cooper-Schiwart/Cooper-Schiwart.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+this is my website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+very epic
 
-### Markdown
+### big text here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
