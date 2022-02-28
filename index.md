@@ -6,7 +6,19 @@ very epic
 
 ### big text here
 
+-bulleted i hope
+-maybe
 
+1. this should be numbered
+2. i hope
+
+**this should be bold**
+
+_this should be italic_
+
+'this should be code'
+
+[link here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ```markdown
 Syntax highlighted code block
