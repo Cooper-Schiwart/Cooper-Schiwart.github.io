@@ -1,4 +1,4 @@
-#Welcome to my website!
+# Welcome to my website!
 
 Here is a picture of a pickle
 
@@ -10,4 +10,4 @@ Here is a picture of a pickle
 
 [Here is a link to a cool video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be)
 
-##Thank you for visiting my website!
+## Thank you for visiting my website!
