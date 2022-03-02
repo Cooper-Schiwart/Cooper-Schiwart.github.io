@@ -1,5 +1,1 @@
-## Welcome to Cooper's page of the website!
 
-Wanna hear a joke... Of course you do! A guy walks into a bar...and he was disqualified from the limbo contest.
-
-[Here is a link to a much cooler website... just kidding](https://cooper-schiwart.github.io/)
