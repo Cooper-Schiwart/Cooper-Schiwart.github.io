@@ -10,7 +10,7 @@ Here is a picture of a pickle
 
 [Here is a link to a cool video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be)
 
-[Click here to veiw the second page of my website made by](https://cooper-schiwart.github.io/second)
+[Click here to view the second page of my website made by](https://cooper-schiwart.github.io/second)
 
 ## Thank you for visiting my website!
 
